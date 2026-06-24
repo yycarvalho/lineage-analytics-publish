@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "changelog": "Novidades desta versão\n\n• Sistema de retenção.\n• Graficos de clans.\n• Graficos de itens",
-  "core_url": "https://github.com/yycarvalho/lineage-analytics-publish/releases/download/v1.0.3/core.bin",
-  "core_size": 40393026
+  "core_url": "https://github.com/yycarvalho/lineage-analytics-publish/releases/download/v1.0.4/core.bin",
+  "core_size": 40556449
 }
